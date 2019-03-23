@@ -1,0 +1,1860 @@
+2019-03-18 22:48:43.6573|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data for HashSet was read from db,Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitChannel|
+ 
+2019-03-18 22:48:43.9171|INFO|Lab1Courses_handlerMessage.HandlerMessage|Connection-ok, Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitConnection|
+ 
+2019-03-18 22:48:44.2484|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:44.2484|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:44.2484|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:44.2484|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:44.6353|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:45.6466|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:46.6527|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:47.6313|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:48.6400|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:49.6428|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:50.1686|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5911, Guid = 80ff7e3c-ec34-4a98-b764-aa31833887ca|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:50.8837|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:50.8837|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 365, Guid = 9e4ed397-e2ae-4d3d-bf25-6afac2acdab5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:50.9019|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6646, Guid = 5bdc2d87-f17a-4fe9-8516-f7f16770b90f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:50.9019|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:50.9357|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:50.9357|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 392, Guid = e7dbc4cb-cc4e-4ce7-9b2c-e043a049a400|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:51.8471|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6194, Guid = 0710bd91-d19b-45e0-be56-c89cdf022565|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:51.8765|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:51.8848|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 227, Guid = 95205616-0098-4175-a801-c8db047b72dd|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:51.9435|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7685, Guid = 3b5ed770-e59b-46a5-afce-38184191fa84|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:51.9751|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:51.9751|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 259, Guid = a7948dd7-3c4c-4714-bb3f-95ac73fd0b80|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:52.0049|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5339, Guid = 3c38a21a-1f44-42e0-899b-42031b300b2c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:52.0331|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:52.0331|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 163, Guid = d3b0659d-453b-4f27-bbd3-aaf9fb7de217|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:52.5750|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8317, Guid = d393f8f3-b710-45f6-8750-236e57e0fd12|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:52.6041|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:52.6041|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 205, Guid = 7f8025a0-f15d-4b95-874c-3862de66fc89|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:54.4573|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9817, Guid = 90765018-432f-4027-9c78-444be1855d88|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:54.5058|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:54.5069|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 185, Guid = 60954202-175c-4064-82c9-44a8967f7310|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:54.6684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7028, Guid = 60b4810c-7ee9-41e7-bdc0-e1a51249ad03|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:54.6684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:54.7234|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:54.7249|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 366, Guid = 63da144d-526e-4683-baa8-28009c552fb9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:55.1919|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6543, Guid = 7007718b-30d0-40e2-9e37-9c7acbd7e744|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:55.1942|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:55.2274|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:55.2274|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 136, Guid = 50e30a89-79df-44ed-b696-e06855b0e416|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:56.8530|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7196, Guid = 07d4932a-9b87-4680-a42e-82d845c8eb57|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:48:56.9138|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:48:56.9138|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 299, Guid = a34ec2e5-b5a0-4066-a69e-f7c2c1cc2f50|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:03.6912|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data for HashSet was read from db,Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitChannel|
+ 
+2019-03-18 22:50:03.9681|INFO|Lab1Courses_handlerMessage.HandlerMessage|Connection-ok, Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitConnection|
+ 
+2019-03-18 22:50:04.2720|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:04.2720|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:04.2720|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:04.2720|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:04.6629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:05.6708|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:06.6619|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:07.6663|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:08.6554|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:09.6745|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:10.6762|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:11.5832|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5903, Guid = dbeb0008-23c3-4df6-a72b-d79c785f551a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:11.6619|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.1753|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:12.1753|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 383, Guid = 20274401-2340-43b4-ad65-528903449780|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.3837|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.8514|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8573, Guid = 492962c6-e54a-464d-86f5-d3ace9163a81|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.8514|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.9044|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8628, Guid = 02c64bea-620a-493c-aa5b-1432ab66b0e9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.9044|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.9295|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:12.9295|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 180, Guid = b68b4e7c-0b7f-4bb5-a231-cbfe1133e331|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.9848|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:12.9848|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 94, Guid = e8b873ab-926b-401b-af0e-479a0b934c2c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:12.9848|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.0001|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.2301|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8561, Guid = d7ff2494-2b93-438c-93c4-c1c8168e2580|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.2301|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.2512|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:13.2512|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 338, Guid = f35197c0-017d-4bc0-a4d2-638dadcc9c14|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.2512|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.5542|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9275, Guid = dc46a7b7-4b08-47ef-95b5-6b044f147997|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.5542|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.6355|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:13.6355|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 32, Guid = 72c696b9-0ad1-41f4-88ec-0f1d2801869f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.6355|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.9126|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9633, Guid = b924f9a5-183c-4c5a-8008-718bd128d597|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.9126|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.9421|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:13.9436|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 390, Guid = e81c9c4c-bc92-449c-b879-56dd493fd6be|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:13.9436|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:14.6634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.0684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8400, Guid = fc819f78-1d1b-403d-bc90-16bb4d941b49|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.0684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.0938|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:15.0938|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 200, Guid = 58eb3576-7e12-4955-854f-c8bac47bb3bd|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.0938|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.6575|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.9795|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5282, Guid = eca74216-af91-437b-b5e2-5c57875dfd50|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:15.9795|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.0494|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:16.0494|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 156, Guid = 08b389c2-1f68-4ffb-83d4-f12445cee4e3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.0531|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.4634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7803, Guid = 90274e68-175b-42d2-9e4b-418c784ffed7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.4634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.5091|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:16.5091|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 330, Guid = 39a802e8-d437-40b6-a2e4-89c81b5d49a1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.5091|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.7213|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9044, Guid = b64ec748-1099-4267-b1e7-e5de534b823a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.7518|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:16.7518|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 99, Guid = 79575e45-68f3-4c0c-a1ab-3a6a5084290b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:16.7518|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.2803|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7598, Guid = 7cdd9f4f-2b66-4dff-91d4-886eccf32e82|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.2803|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.2944|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:17.2944|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 184, Guid = f5db2ca9-361f-44c5-929d-37e31c4578df|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.2944|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.7949|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5408, Guid = 85805bc7-9d86-48d4-94ac-373c96f76d41|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.8216|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:17.8216|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 55, Guid = b81edb0d-5197-4621-bbae-99392ab2d695|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:17.8216|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:18.6558|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:19.6740|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.3306|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7339, Guid = 209c6136-4371-44ed-b359-df92c25c915a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.3473|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:20.3473|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 165, Guid = 477217be-4ce9-47ff-97fc-accc318d3d8c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.3500|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.5143|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5834, Guid = 52363b2a-e9d9-4e9a-9b02-58e1a503cca0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.5304|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:20.5304|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 259, Guid = 6e28d19a-5412-4adc-b780-879b00e53632|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.5304|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9244|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7667, Guid = 67fc4b3e-a807-4490-b273-0d19b99ea71b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9244|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9573|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7007, Guid = fcc190c4-7bd8-4530-ae22-49c92230be3f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 302, Guid = f888761e-493b-467f-ae49-b2bc5e498b7e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 327, Guid = 08f2d4af-0ab1-4e9d-8160-b04fcacdc85b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:20.9697|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.6614|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9995, Guid = e071f8bc-36a5-4d11-8526-da4bf5828035|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.6614|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.6637|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.7290|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:21.7290|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 102, Guid = 14a4e5b3-0431-4d07-896a-ee2697f6efaf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.7290|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.8714|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6210, Guid = 0bc83cfd-d914-4777-9ce3-6f8fd2b67d2a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.9098|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:21.9098|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 331, Guid = 7fcaf3cb-052f-4572-95d2-9a8146240bcb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:21.9137|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.1230|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7018, Guid = 163edf1d-e0b3-4c45-9989-7d68be5693ac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.1656|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:22.1656|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 389, Guid = 2a834b65-2f13-4ba2-883d-fd7c7ca8ce85|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.1656|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.2258|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8583, Guid = bac866f4-4c40-4b17-893f-0aaa289e9688|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.2258|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.2503|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:22.2503|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 264, Guid = fa53daea-ae1e-4ff2-902f-17e8eb4efe96|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.2503|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.5683|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9564, Guid = 9e2ce139-4368-46ce-a795-580e370abcf0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.5748|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.6387|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:22.6387|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 6, Guid = d866d3d4-610f-429c-a78c-8508c5ea9d3c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:22.6387|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:23.1679|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:23.9175|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7159, Guid = 5c6efca5-a9ff-4b5a-a2e8-b6a125c95002|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:23.9175|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:23.9535|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:23.9535|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 280, Guid = 3f9d8e8b-7e6e-48da-8162-1638b3254742|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:23.9535|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.0818|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8024, Guid = f4653bb4-1133-417a-a6a9-7fe954fabaf6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.1301|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:24.1335|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 465, Guid = be1e9da1-5fe0-46e5-b528-2389dc324fd5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.1335|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.3171|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5658, Guid = e7210be4-60bc-473e-8d89-163a574fa450|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.3666|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:24.3666|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 197, Guid = db32c416-e53f-42c5-ac83-0a1795ea828a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.3666|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.4661|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7949, Guid = 1c065965-1d48-478c-8faa-306ef30b51eb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.4780|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:24.4780|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 167, Guid = 4fd4e769-d77f-4a11-9323-f0e88a499ae8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:24.4780|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.1424|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7843, Guid = c9944532-669e-44b0-93dc-c8e162c9c636|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.1555|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.1809|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.2104|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:25.2104|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 214, Guid = 2c8b62e3-9c88-4a6e-a683-9331936fd95a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.2104|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.9382|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5402, Guid = fcfbcc88-1266-49e4-9374-d0be98b7dd52|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.9622|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:25.9622|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 351, Guid = 56201671-3eab-453d-830d-a6d36d2d5a2b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:25.9622|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.5959|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5618, Guid = 56ee6834-6523-4f88-96f9-04d123c9f27c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.6213|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:26.6213|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 287, Guid = b3b63a61-a905-460c-a01a-352332bb3d29|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.6213|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.7913|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7113, Guid = 2239f2e8-da6e-428e-a93d-68d1790d9ff5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.8291|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:26.8291|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 39, Guid = 925faff9-e99e-4c88-aa68-c53a2161581d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:26.8291|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.0723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9239, Guid = e264a357-d233-41d4-bdef-f2cef1192e34|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.0723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.0723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 94, Guid = 82995e16-02c6-441b-a0cc-4309cd910562|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.0723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.1864|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6188, Guid = 5a5ff68c-c308-487c-a100-c8df0cc17fcf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.1864|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.2488|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:27.2488|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 224, Guid = 2347054a-96d6-4f43-9f3e-ed5bb21815e5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:27.2488|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:28.1885|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.0476|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6790, Guid = 9c2f5825-34ef-47cf-91c4-918b0aa12bd1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.0618|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:29.0618|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 259, Guid = 35260ed4-2bc3-4420-8d12-c78e66dc1706|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.0618|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.5593|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7637, Guid = 5ecdbc37-950a-47b1-a4c2-ac8e1265b431|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.6252|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:29.6252|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 411, Guid = 2a281ca3-ef1e-40fe-9413-3f1e4c634c02|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:29.6361|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.1562|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2076|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9855, Guid = 1feb5015-946f-4fab-943a-8ec5901d586f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2136|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7036, Guid = 9da2287c-9536-4cf9-b7c4-a16ec27f2cc3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2136|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2136|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 200, Guid = 4329b8f5-bf3d-45fb-bd42-9da138b1ef2e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2136|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2447|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.2447|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 89, Guid = 1b412305-7cad-417a-b6f7-60caeab6f0a4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.2447|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.3841|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5900, Guid = 8c04bcd4-3bce-406b-b40c-0c658812f018|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.3841|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4319|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8763, Guid = e57b5683-05e6-4b81-ae36-754c4d0e6c48|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4319|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8267, Guid = 55ab9b2b-d204-4644-8ea3-245b0ec463f0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 277, Guid = f67c6929-e7ee-44ff-a365-453e156a1bb0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 326, Guid = 7af2377a-8490-4435-933b-3df415d148c2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4626|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4760|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.4760|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 487, Guid = 4b722b18-339b-41b4-bc24-3528ea57e0f7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4760|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4760|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8748, Guid = 1ceb0561-e440-49d8-ad7f-a1e92cab182c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.4760|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.5277|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.5277|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 394, Guid = 89f8f9be-26ca-4653-81e7-54b3330fe8db|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.5277|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.6032|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5413, Guid = 52d5a2f7-e756-4c2a-8315-fe1b7aaa3e7d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.6184|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.6184|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 97, Guid = 56edc17a-e206-442c-ad5d-4e6bab994f20|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.6184|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.6966|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5480, Guid = 747cf7df-d0c3-4276-bcce-30326f5210a6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.7634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.7634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 17, Guid = b5300d10-9c59-4043-9038-d25f9a309e33|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.7634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.9062|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6533, Guid = 8ff83be6-e7b5-4bd7-8825-d2aac39c8cc9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.9592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:30.9592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 471, Guid = d86c51f9-c310-41ae-bf55-74824a91891d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:30.9592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:31.1830|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7045, Guid = 27347c71-0de3-4954-a157-ae57f1431f36|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:31.2429|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:31.2429|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 125, Guid = 466edc69-b33d-428d-ba53-35ef2823b399|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:31.2429|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.1560|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.5530|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9908, Guid = 106b69c9-dc1d-42ac-b350-7505cf13dbb5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.5530|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5489, Guid = 2771bc00-c784-4762-a23f-10ec4b3feb58|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.6128|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:32.6128|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:32.6165|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 205, Guid = 660c4515-7ae4-44f5-8bcf-0a03591d070a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.6165|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 357, Guid = 4684f2a4-1339-4d9c-8ec1-3ccdb4e9fee1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.6165|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:32.6165|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.0605|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9099, Guid = d76bb56c-e806-447c-b955-5558f0f1e79e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.0605|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.0858|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:33.0858|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 420, Guid = 98855988-d921-4cdd-9331-3f309f285307|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.0858|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.3589|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6730, Guid = 17e40260-800b-46f3-bbc2-65dc013373c1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.3589|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.3931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:33.3931|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 196, Guid = dcd30703-ccdb-4e2f-88c3-9b343bebe371|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.3931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.6419|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6805, Guid = dfd5f1d5-02dc-4b9b-9aea-bc3fc1c19c85|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.6719|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:33.6719|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 97, Guid = bc015196-73c9-4668-beac-f00730cd7dad|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.6719|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.7779|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6521, Guid = 5d73f3b9-1fb0-4bc8-baa0-81ca0ed7e6c1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.8092|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:33.8092|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 211, Guid = fbb9b1b1-0304-4c04-9435-3065b326081c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:33.8092|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.3593|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6164, Guid = d5948140-d5d6-43c7-942f-e45aadf5d326|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.4115|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:34.4127|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 21, Guid = 73c12e67-f061-493e-add6-320a4fb4b193|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.4127|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.7033|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8735, Guid = 43b90165-f27e-4ca0-99e6-96e63316f4f5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.7262|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:34.7262|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 97, Guid = 16fc3f36-0479-4d6d-abf3-a2d33f37a110|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:34.7262|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:35.6825|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:35.7892|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5160, Guid = 1715ce12-41b2-49e5-ae9e-7fcd31ecf149|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:35.8052|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:35.8052|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 419, Guid = f7f65438-8759-42b9-8c63-aa419677e03a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:35.8052|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.1204|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5634, Guid = 3c6dd3c8-9d2a-4071-a944-8f60d35808a4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.1618|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:36.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 399, Guid = 8f01ab2d-7f1c-4640-8809-fe506aae5804|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.3763|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5877, Guid = adc89977-bcc3-450d-a154-f27f58c80f3f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.3763|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.3961|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:36.3970|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 172, Guid = d2496bce-959d-4e66-b307-b1bfaf291c66|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.3970|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.8617|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6086, Guid = 9e673a7a-1e90-4fa5-b66a-bbcad0ac438d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.8617|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.9549|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:36.9549|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 192, Guid = 3887d1bb-4c9d-4805-a588-95b131a113ca|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:36.9590|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.0663|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6809, Guid = dd000f80-54c6-491b-978e-589ad5acecaa|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.0790|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:37.0790|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 263, Guid = 0ad67280-572a-427b-af50-746e886305ac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.0790|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.2937|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7643, Guid = 7d01a6ac-da49-438d-9f4b-d9ce1ae75b52|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.2937|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.3338|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:37.3353|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 296, Guid = f4ef9b26-b9b5-4042-8266-ab562a2415c3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.3353|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.5570|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7082, Guid = dc70d495-abab-40ca-b0a2-a30a9edf65e8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.5570|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.5797|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:37.5797|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 190, Guid = 7890ab4e-4003-4a31-a789-d4113ded4bf8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.5797|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.7176|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7177, Guid = 2b76f80e-3567-406c-826d-73d471f3942d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.7592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:37.7592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 111, Guid = 34f90857-0122-47e1-a990-4729df029c57|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:37.7592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.0737|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7845, Guid = 45dba399-923f-4d97-a449-50eb8a6424e8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.0737|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.0863|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:38.0863|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 112, Guid = c547047f-61c5-4404-ae48-de6926fdb713|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.0863|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.6771|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.8860|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9814, Guid = 294d2d8d-c92b-4d13-9826-7459d63d5832|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.9131|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:38.9131|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 159, Guid = 7f514e22-8f8c-4a7b-9245-df06db901c4f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.9131|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7941, Guid = 1885928c-178a-4b5c-b9ee-085493a41de1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.9131|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.9283|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:38.9283|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 161, Guid = d15d301c-e7d4-4798-a0e4-c9bf72b89f95|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:38.9283|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.1708|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6530, Guid = d3a00bc4-546c-40fd-b9f8-80ea1884eccc|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.1708|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.1708|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 326, Guid = 68b59b4e-5989-4c1a-b25c-8f42d278e15e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.1784|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.7523|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7085, Guid = f18a76c3-705e-4dc8-b584-1d43b419aff1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.7643|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:39.7643|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 417, Guid = 9201dcf6-9784-4d8e-b9e2-7f4089e59e20|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.7643|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.8806|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7716, Guid = 4dd432b0-2d27-4a35-8e61-3584237d69f3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.8844|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.9082|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:39.9082|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 30, Guid = 450e58fa-4b5b-404c-acbf-8462003a4633|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:39.9123|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0654|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6658, Guid = ec0068cb-4890-469f-b852-10327bb4c376|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0654|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0729|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9907, Guid = 0eea74e7-9f4e-47cb-acd8-fa8852ce9abc|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0729|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 212, Guid = f9d4f858-4a21-49a3-80a7-6cd53f680a37|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 204, Guid = 6a51b795-0da9-4201-960a-e9cce939e83c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.0931|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6175|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9361, Guid = 739d6eb8-7a79-4de6-9dc0-bab69d451781|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6175|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:40.6318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 357, Guid = c8f7cfe3-3ad8-4864-941f-df3322e3909d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6959, Guid = 7ade5274-42be-43c4-9900-95ddbe7010dd|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6630|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:40.6630|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 158, Guid = 07a5f743-e740-415c-983a-0a0f465310a6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.6630|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.9307|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5112, Guid = c8085d6b-a9ff-4143-b1da-fe9afd030bfb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.9732|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:40.9732|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 351, Guid = 7987cd12-f76d-4128-a417-df25fdedab72|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:40.9762|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.5317|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5123, Guid = e07b3df0-de9e-452c-8c3d-3452e712e7c4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.5317|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.5521|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:41.5532|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 458, Guid = 4d6d8766-fc2a-402b-83a8-e22327edca39|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.5532|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.6122|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7790, Guid = f24b756e-6c96-48e1-9df6-ace005fb56cf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.6122|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.6257|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:41.6257|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 114, Guid = 545a6171-d51c-4541-ac37-65afcb57d477|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:41.6257|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.1700|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.3027|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6612, Guid = f8c3fb72-9dee-44ef-921b-f23376bbf264|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.3027|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.3027|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:42.3027|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 40, Guid = f1a6ad1f-fd53-41b6-bab0-3f47bbdfacd1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.3195|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.7756|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8357, Guid = 9bfa496c-b6b2-4dda-924b-00b577a47d23|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.7994|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:42.7994|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 279, Guid = 04e8b686-d094-424a-963d-306a2ef6968c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.7994|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.9817|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9887, Guid = 4060fe57-df41-48c0-a0ea-8d1f07b4627c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:42.9817|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:43.0203|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:43.0218|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 108, Guid = a6b2a664-00b4-4689-a437-03e10c42bf56|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:43.0218|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:43.0755|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5306, Guid = 524d489c-d449-4e4c-a16b-cf8807398365|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:43.0903|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:43.0903|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 371, Guid = 8df63de7-349e-4762-95b6-8c8df5d42084|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.5262|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9791, Guid = 607c181d-f469-46df-a02c-8922993bee98|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.5878|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:44.5878|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 387, Guid = 4f7aa1af-3301-4e95-adf7-fafe431fd4b2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.8323|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5905, Guid = f62b4def-25a3-4e20-9fb4-19827f8e641a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.8482|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:44.8482|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 59, Guid = 389a1a6a-ec4e-42cc-b99e-7a73a8085d94|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.9745|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7629, Guid = a2ae0ad5-e548-4c02-9e00-79b0b23424b1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:44.9786|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.0292|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.0292|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 220, Guid = 36b17147-e4ab-4f07-8028-bda842648e6d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.3561|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7764, Guid = 35e191df-1d9a-4348-a09a-be54a64d72e6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.3759|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.3759|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 247, Guid = 4fa4da5c-6e15-4d8f-b466-caa25ecb2d72|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.5153|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9341, Guid = cee6ab22-5908-471b-95f8-941685435467|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.5153|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.5550|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.5550|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 426, Guid = 97033b39-79a1-4332-ba54-ebd7c056e915|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.6875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8718, Guid = fc9bd0ee-ecd6-426a-99cc-2f69b9d9396e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.6875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.7007|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.7007|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 186, Guid = c5507f83-93a9-435d-bbee-95ebdcbf1bbc|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.8658|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7768, Guid = 2e286058-9770-403c-8dd6-46e751641549|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.9012|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6953, Guid = 074ae759-3b29-4b8e-8cd9-d78700509359|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.9012|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.9012|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 175, Guid = c6fc7f7c-1ad2-45e5-ab98-da40ce5e7e57|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:45.9250|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:45.9250|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 103, Guid = b12a0662-06e6-429e-8cd5-00808e70a811|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.2289|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5587, Guid = 891a9ff4-d715-470f-8094-1cf9ee134d37|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.2604|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:46.2604|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 39, Guid = 497e3eaf-d6df-400b-befc-571b9e3ae528|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.3454|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7156, Guid = 7d99b43c-a5c2-41e9-9e32-ee0d16f7cc7e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.3685|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:46.3685|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 377, Guid = f4c1d316-8037-4cfb-af13-e9b12620573c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.4734|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5797, Guid = b3b35074-ef82-479a-9c1b-fbe9d4185e5a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.4925|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:46.4925|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 7, Guid = 94231968-f005-4586-a259-5a0bbfa07bb4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.6456|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9555, Guid = 5c69a43c-2ee6-41f3-873d-522e189a76a3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.6625|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:46.6625|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 81, Guid = 771ac92d-cbef-4b7e-845c-c6d67f92b3d4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.7461|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5182, Guid = dfd3bfd6-c8bb-462f-8031-315420410cc3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.7461|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:46.7461|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 180, Guid = 5f53bc13-37e3-4ad1-924f-d8357779d4d3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.3845|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7459, Guid = 8055015f-c41a-4a7d-b950-a512ce7a39d1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.4374|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:47.4374|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 83, Guid = 6d18695e-3230-4055-9290-8dba489bcb31|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.4440|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8753, Guid = 6fe89039-6824-4981-bc3a-b9495aab903b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.4806|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:47.4806|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 249, Guid = 2624c9cc-599a-42fc-9dbe-236440722423|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.7497|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7966, Guid = b0caa37b-9ba7-487f-8e5e-2e98d4db5773|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.7646|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:47.7646|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 393, Guid = ec4a44b0-3679-43a0-8d00-d72ff83ab578|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.9776|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7872, Guid = 05fac658-566f-400a-9b8c-0278c0a9b393|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:47.9997|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:47.9997|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 471, Guid = 9cb86662-e93b-4089-8634-614f0e2019a9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:48.5675|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5539, Guid = 7f3ec031-23c7-4332-8d25-b37852b6984e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:48.6291|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:48.6309|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 441, Guid = b5c81e8c-f303-428e-af63-d262c92e1dee|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:48.6567|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6330, Guid = e27a34ed-6e9c-4327-898f-3640f028b304|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:48.6567|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:48.6674|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:48.6674|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 328, Guid = 28b49709-2926-419b-9d6f-7cde513a6aac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:49.3571|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7718, Guid = 0a2b79d7-c710-44f1-a867-5b260c9b6db9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:49.4296|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:49.4296|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 375, Guid = 3c6af77e-2661-4a25-a11e-b89ee8872295|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:49.5188|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9402, Guid = f03e5352-a0cb-4a21-ae6b-a650874e04d3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:49.5188|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:49.5359|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:49.5359|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 400, Guid = d4bbd367-9da7-4685-8ccc-2df288c3aef9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:50.2079|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8028, Guid = 8728534c-4584-402f-9140-4fc389a551d9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:50.2101|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:50.2461|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:50.2461|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 314, Guid = 156f29f8-bee9-4944-9d32-6dcd679cd83e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:50.5151|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9527, Guid = 322384a3-9d2f-43da-9602-3bdcc38c0881|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:50.5532|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:50.5532|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 15, Guid = 4672cd06-1c91-490f-aa23-b3cbefe1096c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:52.2258|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9416, Guid = b604b5da-720c-4272-8821-bfcf8cae47b8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:50:52.2553|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:50:52.2563|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 421, Guid = 1037275e-c671-453f-bc88-87dd41c4f4c6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:23.2913|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data for HashSet was read from db,Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitChannel|
+ 
+2019-03-18 22:55:23.5983|INFO|Lab1Courses_handlerMessage.HandlerMessage|Connection-ok, Guid = |Lab1Courses_handlerMessage.HandlerMessage.GetRabbitConnection|
+ 
+2019-03-18 22:55:23.8875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:23.8875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:23.8875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:23.8875|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:24.2599|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:25.2582|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:26.2836|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:26.7777|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:27.7767|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:28.7672|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:29.8107|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:29.9491|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6053, Guid = 13530e80-f934-4112-bbc9-2c58eb841eac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:29.9703|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:30.4729|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:30.4729|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 294, Guid = 67e16083-3397-4b78-a695-06fa5f2e9e84|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:30.6010|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6709, Guid = 7ac2310c-a994-4029-b809-3772d16c7f2c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:30.6010|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:30.6010|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 363, Guid = db9dde20-70df-4ae4-bf25-fb88516c47be|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:30.6288|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:30.6536|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1221|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6860, Guid = 2750d6dc-45af-40ea-8ee3-319116df5d1e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1221|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:31.1221|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 285, Guid = cdfeb639-45fa-4b7d-9505-bf0eab52d1e4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1221|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1486|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7255, Guid = be95428c-4c85-4c10-ba50-c0211e23dcb1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1486|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:31.1486|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 471, Guid = c99b1b7b-96f6-4661-aa0a-01931c1c560d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.1486|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:31.7706|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.6382|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8741, Guid = b10851ea-170c-4a3c-8131-aa62de8eca77|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.6684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:32.6684|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 297, Guid = 11b9e9c2-497f-4de7-9d0a-6619b9bd755e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.6854|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.8006|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7537, Guid = 5b6a24d5-05fe-4d30-8fce-d91a32a64201|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.8076|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:32.8076|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 431, Guid = 4fc2e2ae-f687-4c73-a9cb-e93414de3298|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:32.8076|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:33.7777|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:34.5767|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8277, Guid = d0d2f69d-c092-4a2f-b7c7-60618b11a61e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:34.5865|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:34.6190|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:34.6190|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 196, Guid = b5ba01e2-ffd9-4329-ab6b-50fc8eb9915a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:34.6190|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.2737|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.3096|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8518, Guid = 1f8f687b-8bed-44b4-b1a7-cf03babc8dfe|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.3096|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:35.3096|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 209, Guid = a009f684-c5c6-4830-98f5-72d3a6aaa445|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.3096|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.7565|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7972, Guid = 2f4febf5-7c12-40fb-97fa-a0cc8b9522f1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.7565|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.7565|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:35.7565|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 16, Guid = 72fbdacb-95de-4905-8fa9-d6981863fca9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:35.7565|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:36.6839|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6050, Guid = df2460ff-8dcb-46f2-a9e9-ff412213fb58|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:36.6839|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:36.7085|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:36.7100|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 146, Guid = 6774484a-86d2-4d44-aea7-17a6a5b1c66d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:36.7100|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.1421|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5980, Guid = 9edaa2fc-fff2-4955-bdfa-ab0bf45c9ca6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:37.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 147, Guid = ea099250-ea0b-404c-bb25-2281cba3a7b0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.2189|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7402, Guid = fc8cb8c0-1709-4da4-a192-c7e90bf8e4f7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.2348|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:37.2348|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 155, Guid = 9c903149-b6c9-4f12-8e86-90bab879262a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.2348|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.4297|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5650, Guid = ee6f5733-d0d2-4abe-a802-b55b9d44620e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.4297|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:37.4297|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 69, Guid = e8180030-e76b-48b0-b0fa-0589c4c9e6aa|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:37.4297|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.2661|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.4080|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9636, Guid = f1614d9c-b2e4-483d-ba44-71f2f224f646|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.4293|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:38.4293|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 69, Guid = da298f79-a458-4079-809c-ecaf6cb50e61|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.4293|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.9263|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6104, Guid = 78960ae3-39f3-4620-b839-1b159af0501c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.9579|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:38.9604|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 263, Guid = 3543f148-69af-4b77-8aa7-57ce2fdbe3c7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:38.9604|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.6818|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5052, Guid = b187f825-b311-4190-b3e0-4029ddd483db|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.7033|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:39.7033|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 319, Guid = 4d918091-9655-48e6-a661-6dde6643556c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.7033|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.9592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8828, Guid = 85677d21-7283-49fb-be55-1c66ecf56bf2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.9592|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.9772|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:39.9772|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 432, Guid = 2ab061b6-01a9-4d7c-baa7-caccbe9b21d6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:39.9772|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.5458|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9890, Guid = 912fa2e9-f4e7-4a33-a8f9-9cbc792dc082|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.5637|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:40.5637|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 157, Guid = 69f85088-b548-4455-a610-fb2ea154b5bb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.5703|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.7470|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5467, Guid = df559265-b948-455c-9449-70d47463bff0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.7562|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:40.7562|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 131, Guid = bf049209-8011-4db1-885f-7f03674a9a4e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:40.7562|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:41.7633|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.5243|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9832, Guid = 3541f74d-28e3-41f4-833a-6ece1539a668|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.5243|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.5612|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:42.5612|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 466, Guid = e3969176-2cdd-4b48-be75-25b37bfdb28c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.5612|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.6956|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5452, Guid = fc4761b7-e3b5-47fc-9e4a-7609860d3910|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.7166|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:42.7166|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 357, Guid = e50db59e-0024-428b-9c09-bdc092c7931d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:42.7252|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.2625|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.3475|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6175, Guid = a7e9d302-1068-48be-9175-99b980d525dd|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.3689|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9581, Guid = 9817dad6-8b99-4d2b-aefd-2f0d1f2910e9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.3689|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.3689|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:43.3930|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 25, Guid = cba45041-2292-4230-8b59-04ba0f6fc681|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.3930|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.4065|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:43.4065|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 200, Guid = 080a268b-efe7-4f05-8c38-835f1d692f3f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:43.4065|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.1771|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7459, Guid = c81d68fa-f2c2-4b9b-b460-14d614adef77|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.1801|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.1980|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:44.1980|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 370, Guid = 4fe6fde2-74f5-407f-a6d0-38447e00d50c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.1980|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.2442|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8924, Guid = 61d39a2f-a4bf-40fe-a1a3-55334fa820f8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.2648|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:44.2648|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 495, Guid = 53616f99-3970-4018-adbb-179f89231993|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.2648|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.6909|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6253, Guid = c0cfa33a-df17-43b1-b54b-df491fe6f1f1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.7076|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:44.7123|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 15, Guid = 94ffdab0-14dc-452c-8930-005a73bf2f66|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:44.7123|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.1892|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9419, Guid = dcd3e766-7e6f-4a04-b0f0-5b7db553ee18|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.1984|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:45.1984|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 25, Guid = fad26cc2-3a75-484b-bd39-7f267913d737|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.1984|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.7609|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.8459|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7575, Guid = a6c73e4c-b100-4ce4-a4b5-4d66064944e5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.8459|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.8523|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:45.8523|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 114, Guid = 4f226d6f-0343-4123-b9c6-01054972aed6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:45.8523|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.1360|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8692, Guid = a68dd073-de57-40d6-9388-c7ba92185c77|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.1597|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:46.1597|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 409, Guid = ba41bc2a-9123-4d85-9f76-1a27ba63a550|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.1629|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.7799|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.8801|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6894, Guid = 430f9d35-de4f-45ad-a267-4987a4d356a1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.8901|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:46.8901|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 73, Guid = 229863b2-62ac-49c3-9202-fa878c380cc6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.8901|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.9022|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7931, Guid = 2a02e21d-4eb0-4c7c-b769-8816ba1180b4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.9022|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.9176|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:46.9176|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 306, Guid = 7cb901e7-239f-4756-aed5-7872533964f6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:46.9176|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:47.0472|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7332, Guid = 0abc76f2-9c25-4692-b016-c045c0dbb056|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:47.0612|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:47.0612|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 439, Guid = 1ed75212-4a64-45c4-8f16-2f8fd3876634|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:47.0612|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:47.7759|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:48.7777|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:48.8621|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5440, Guid = e4af2533-5ad8-4baa-b240-e7b1d3e154c6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:48.8621|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:48.8737|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:48.8737|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 372, Guid = 45685af6-4fb4-431d-859c-9d0139754359|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:48.8737|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.1151|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6378, Guid = 08fbedc0-1c56-418c-8e85-50b59bfca112|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.1151|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.1151|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:49.1151|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 498, Guid = 4d47a003-3a7c-466a-8566-9650f1810d22|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.1151|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.2217|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5952, Guid = ff051952-60eb-4679-aebe-ee9de40980b1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.2262|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.2588|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:49.2588|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 358, Guid = bd0f2343-1646-49ec-a0b9-86b4fe97a94a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.2723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.5209|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8938, Guid = 9c4fb10c-9ebb-4b01-a2a5-99874dabf90b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.5382|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:49.5382|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 421, Guid = 90df8ef6-3903-4b92-a179-f7c1bc7caf6d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.5382|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.6024|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7029, Guid = d63689fe-50ac-4080-9278-1217518615c8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.6024|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.6024|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:49.6024|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 398, Guid = 70adf0df-18db-4eae-95fa-19e3e53c1c7e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:49.6024|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.0043|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9226, Guid = 4219362c-4cc6-4c5f-b095-e042ff56d060|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.0148|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.0253|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 294, Guid = 0168c03d-8da3-4ef9-b79b-fe40cb42eda8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.0253|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.2825|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6058, Guid = 50e997a5-f5d2-4561-94ed-6883b390ccdf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.2934|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:50.2934|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 39, Guid = d8c15caf-0b53-4149-b948-47e36d8beb43|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.2934|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.8463|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5074, Guid = f118a05a-5851-4d64-a718-d0fcd00f6d79|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.8524|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.8740|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:50.8740|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 158, Guid = f9bc2061-4be6-4ba9-94e4-cd95862135a5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:50.8740|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.1634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6882, Guid = f5856f60-480f-4a37-90ff-e43759f022e7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.1634|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2016|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:51.2016|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 194, Guid = 5cfc40ea-9d40-4996-adef-61882375d8e8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2016|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2564|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7847, Guid = 63934240-ff5c-44a9-a6a4-3a8aacf21e34|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2564|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2564|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:51.2723|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 318, Guid = 2d80c38f-1c9f-484e-99b8-9cc4ec519c23|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.2723|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.3079|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9532, Guid = 36b9bd21-19d1-45fe-8cf6-b8040aaf4d68|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.3079|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:51.3192|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 79, Guid = e7c75c65-a055-4bc2-b64e-b73ead672388|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:51.3192|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:52.2690|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:52.7084|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7987, Guid = 04f80f75-ef0a-4d42-88b0-10a9931b2a02|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:52.7215|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:52.7215|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 25, Guid = 843f49c5-4dff-44d7-b1c0-bd6845c1da98|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:52.7254|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:53.3014|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:53.9772|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7189, Guid = 6beaf3fc-4e4b-4d88-a4b7-3ca47c2d2a79|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:53.9908|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:53.9908|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 141, Guid = 75d256ca-1bae-4556-8e57-2b08a2d43d30|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:53.9908|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.7793|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.8325|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8660, Guid = 9bdef43f-459a-4c7c-a982-e10439ad22a1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.8370|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.8529|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:54.8529|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 388, Guid = bcb8b30b-2e39-4492-be71-1450088f38ff|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.8529|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.9220|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8020, Guid = 323aa9e6-fb9b-44f4-a407-9c28cf580688|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.9220|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.9290|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:54.9290|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 280, Guid = eb66ec84-7bc7-404b-8376-140d352acdfc|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:54.9290|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.2072|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9996, Guid = 1531fb0d-dba5-459f-a5a3-6671aed5e48e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.2072|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.2150|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:55.2150|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 322, Guid = fe6e2429-e319-4c23-b4e1-35dbc982f237|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.2150|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.4321|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6301, Guid = e6a2d727-8c01-4fef-974f-5b8ca35515ea|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:55.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 151, Guid = 0f40efcf-de91-40ac-bb4c-5231ddb45ceb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.4777|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.6911|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8761, Guid = 06bd4605-8823-4bd0-b0ea-4c70e7d4db80|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.6911|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.7128|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:55.7128|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 78, Guid = 3044b6cf-8703-4341-8ed9-195e2d0c0673|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.7128|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.8471|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9985, Guid = a3fbf45e-bb3b-42fd-81b1-de7d93beda7b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.8840|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:55.8840|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 131, Guid = 67d56547-537a-4b08-9bb8-6955cc098bf7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:55.8840|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.0040|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7119, Guid = 87773fb8-9e52-46d4-97b2-571b5ef5499e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.0040|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.0107|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.0107|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 270, Guid = d0fef7e0-4f86-4d4b-9f0e-3a2556cded20|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.0107|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.1015|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6064, Guid = 3250e243-51a4-4fd4-94a0-5ffd21e4a183|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.1015|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.1015|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.1015|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 326, Guid = 2106b6e5-d595-4fef-8449-d598b5bd3d5b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.1015|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.3479|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6797, Guid = 532f3de9-16da-4fb3-9e44-a4d25680a896|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.3529|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.3680|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.3680|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 220, Guid = d739f27f-8efd-4c1c-aa0c-bf2ca9ade4ed|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.3680|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.5529|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9479, Guid = d90967a9-25ed-4bc3-b037-523e62715f9b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.5529|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.5807|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.5807|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 400, Guid = 993bb588-f28c-4a21-a2ff-0389a2bd9f85|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.5849|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.6233|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7336, Guid = 8a744aa2-a65e-46bf-8ed4-fd74db89f7ac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.6233|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.6319|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 253, Guid = 494fb6a4-1824-45ba-9748-4842571432c6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.6319|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.7018|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5413, Guid = 84658aca-8b64-45aa-abc8-9b0d418a0464|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.7018|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.7018|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:56.7099|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 42, Guid = 625fd651-93f4-4f07-8d64-2a9125b6ac00|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:56.7099|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.0617|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7438, Guid = b274ceb3-b809-4016-bc99-cecf70b68588|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.0617|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:57.0693|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 285, Guid = 3c68a0d6-b399-42bc-b017-ba692b442bd3|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.0693|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.1051|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6214, Guid = b8241dd2-de16-40a9-8458-d4dfe32c78c9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.1051|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.1051|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:57.1051|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 368, Guid = 74364257-2ec8-4d4a-a733-fc9a3c3e186a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.1051|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.1851|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9395, Guid = b7a4f8bc-8441-4403-b93a-d311b5c67d65|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.2218|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:57.2251|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 31, Guid = 0474be5c-4d1c-4165-a633-b6a828c56aa8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.2251|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.2519|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6033, Guid = 510f7f07-b4ae-4d20-88b1-c4930bd1cf31|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.2599|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:57.2599|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 107, Guid = 417096ab-0af1-4728-934a-45c2ef2cbbfe|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:57.2599|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.2795|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.5958|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9801, Guid = b000b811-6871-4e2c-b09c-95e604469e4c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.6088|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:58.6088|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 353, Guid = 6555c89b-1406-41ee-9fca-5ec7d376912f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.6088|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.9005|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7572, Guid = b23d3a50-53b0-4f2b-b610-39f1c72abdd5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.9157|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:58.9157|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 163, Guid = 08b60a93-c842-479c-bac3-e126f1693ed9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:58.9157|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.1503|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5151, Guid = 320799c3-15bb-40be-8bfc-b42dfbd46e2f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.1753|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:59.1753|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 103, Guid = 8cb0307c-6c1b-47c7-b981-11a30fda1646|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.1794|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.2046|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6474, Guid = 2410c415-23b9-4a17-98f1-b3eccd610ad2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.2046|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.2217|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:59.2217|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 34, Guid = 9180f09f-19be-45c9-a95b-a4d54b0ee085|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.2264|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.5176|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9216, Guid = a3ffb73e-c980-4410-b3fd-ddc30bfbbd7e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.5176|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.5374|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:55:59.5374|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 260, Guid = 190abdbb-2444-4f05-b7db-ec97ac6ff2a8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:55:59.5374|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:00.2854|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.1838|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7875, Guid = c96d9301-6837-4c32-9fed-01e7ad2e5e76|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.1838|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.1971|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:01.1971|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 460, Guid = ffa8a455-9d05-4a0a-8b32-f3c3069093a1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.1971|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5566, Guid = 7cce9be9-ec41-4a80-b491-67fbd9188239|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:01.4647|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 304, Guid = dcf3780c-43d4-4561-a537-7ec0b3e9174f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4762|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4762|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5467, Guid = 55b566f5-1b24-4bbc-88a1-644987cae780|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4762|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:01.4903|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 63, Guid = 6dbdf66c-fc65-4931-8214-b1ff5d3f81e0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.4903|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.5996|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9323, Guid = 331e00fb-53e3-479e-b031-d57c3b5ee065|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.5996|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:01.5996|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 341, Guid = 833743eb-bf1a-48d0-a2ce-b35a0eee8ade|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.5996|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.6398|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6150, Guid = e12b6d04-f9a4-4508-a7ea-65c695fac6ad|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.6398|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.6464|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:01.6464|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 184, Guid = 25acba2f-bdff-4c4c-8d0d-02787c603bda|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:01.6464|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.2694|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.6292|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5914, Guid = 93457681-33d0-4a6c-866f-676d8ed5f2c0|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.6292|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.6366|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:02.6366|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 150, Guid = 5292da2c-72b5-4113-9312-81f8f362bda2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.6366|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.7206|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7859, Guid = 1899c2ee-0a0a-4333-8dfc-cd15dca6db81|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.7272|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:02.7272|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 433, Guid = 9f641870-31b4-4a0c-b29f-77c0330f8adf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:02.7272|INFO|Lab1Courses_handlerMessage.HandlerMessage|Serialization of message from queue, Guid = |Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.4305|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6197, Guid = a7d85d70-b3c6-4ccf-a5f3-28aead23cae4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.4579|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:03.4609|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 147, Guid = a8fe1c4b-70e5-4601-ad00-fb7501f82d91|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.5705|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8349, Guid = 9923df63-684e-420e-b3c1-ac492628d215|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.5705|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:03.5705|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 83, Guid = 1e8790f4-cb09-487a-9582-5c7aec313ab6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.6853|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8893, Guid = 1ea0b563-0598-4b26-ab4d-f25ab0650a3f|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.6853|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:03.7107|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:03.7107|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 84, Guid = cc0eda9e-6140-4882-9882-12d8d640aa45|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.2558|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8532, Guid = 5d1a3f32-20a5-4dc0-96ac-e2051b52365d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.2558|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:04.2558|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 149, Guid = f2fc38b1-1403-48b5-b705-f7f7d5879e95|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.3789|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7787, Guid = 184df0f7-e906-4a62-bf22-876a8bb9b086|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.3852|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:04.3852|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 409, Guid = c22efb37-9ed9-454b-9a9d-e76f0a274acb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.5116|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8397, Guid = b255ca52-e38d-4b75-87a7-913eae54435c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.5116|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.5406|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:04.5406|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 324, Guid = 8b4180cc-38fb-48e8-97e7-05fcf3b9fca7|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.9318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9997, Guid = 7aef7c25-792a-445d-9cca-37e7f47db6cd|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.9318|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:04.9693|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:04.9693|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 404, Guid = 392bbab2-5d01-439f-91a7-0b501c227926|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:05.1188|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8476, Guid = f6fd326e-9373-4730-bd11-bbcf5ad2d5ea|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:05.1357|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:05.1357|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 405, Guid = c4ab860a-0abb-425e-b524-b6a0c2ffd649|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.1758|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9794, Guid = af8e6351-2588-440e-a469-f95587493cad|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.1924|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.2137|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:06.2137|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 284, Guid = 4801ac3f-026f-41c3-862a-9e1a4fcf86fa|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.6307|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7437, Guid = f109432b-7c85-4dce-b306-370df8ed2d0a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.6519|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:06.6519|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 281, Guid = 9d261c64-c8fc-4cb0-ad49-260604407fae|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.6900|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9608, Guid = ebf8572e-e60c-45fc-bfe6-6157dcbd1c9a|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.7220|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:06.7264|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 93, Guid = 5aa30cb6-8109-4c37-b5a1-0cfb5cfc2cac|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.7489|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9623, Guid = 7fe070a6-a1b6-4c7a-ad42-9a37807e51bf|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.7489|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.7673|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:06.7673|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 80, Guid = 7c7bcaa8-d2bc-475c-aba9-bc733a45b875|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:06.9880|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5774, Guid = ce841a27-6fdf-4cb2-8c9c-62b37e870e89|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.0111|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:07.0111|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 265, Guid = 91b61ae4-41b7-496a-9ae6-0cd6f985de2c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.2679|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9994, Guid = fd741134-af5f-4214-a165-c5053b5a20dc|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.2679|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.2755|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:07.2755|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 330, Guid = f000d227-78c6-4e57-ae63-2f74e6fdbe08|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.3669|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7067, Guid = 1e1dc0f7-661d-4bea-b379-ebf6858f5932|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.3826|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:07.3826|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 119, Guid = 5695195c-d730-4c30-adbe-810c94bd281c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.4994|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5838, Guid = 3b3235f2-bef7-4c18-ba10-62e6f27bac0b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.5349|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:07.5467|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 77, Guid = 4956c508-8a15-4dac-878d-af8a1ded7914|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.7841|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 6296, Guid = 203dda22-b23d-4bb6-9af1-96a1661d411d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.8011|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:07.8030|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 151, Guid = 5d8ea5ec-aeab-4638-9293-9f8036dfc6f5|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.8544|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9230, Guid = abdcccea-c7a6-470d-9e08-1037afdee11c|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.8544|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.8544|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type is repeated, RequestType= 372, Guid = a500ff56-84a5-473a-a5d3-d359d670dec1|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.9848|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 5333, Guid = 1b2b55b8-06d8-4dd8-b80f-2ce720d086c2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:07.9848|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9696, Guid = e82dbd77-46f0-4e32-90ff-f8b5f474e2d4|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.0077|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:08.0077|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 149, Guid = 0add6e68-d2c4-4dfa-8702-cd825ad054bb|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.0077|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:08.0077|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 93, Guid = 08542d40-9d78-4b1f-a89e-9efabaaf668b|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.0856|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 8529, Guid = 2a43dc65-3b0a-4ba9-994e-8baf8067451e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.1019|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:08.1019|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 37, Guid = 1b0e074c-0950-4eb9-88a9-3e04c8a06999|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.2226|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9290, Guid = 2dbf4775-70a8-4d46-aa27-3b41e53e6122|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.2339|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:08.2339|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 485, Guid = e6d39b83-77f8-43cc-920d-1ba88aa78aa2|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.4426|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9203, Guid = 1e1db092-cdcc-4a37-ac42-1d42c6557ce8|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.4482|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:08.4754|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:08.4754|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 440, Guid = 250a290a-a878-42f5-b6ee-6e28b6c06f05|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:10.1124|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 7830, Guid = 466b9031-5b3f-48be-bfe6-bfc85fc83d6e|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:10.1611|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:10.1647|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 411, Guid = e38ca9be-f3ba-4b98-bc4f-857cc9249791|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:10.6773|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9053, Guid = 64618b85-506b-400a-953d-41e00553a650|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:10.6788|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:10.6788|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:10.6788|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 244, Guid = 7bc6a3df-11cc-4ebe-9b80-e81fd3d32ea6|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:11.0600|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9556, Guid = 7a159f85-d12c-4fce-acdd-37d9a629a4b9|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:11.0791|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:11.0791|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2 !=0, RequestType= 171, Guid = 182a998f-243f-4b25-9fb7-78fc956b899d|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:12.7110|INFO|Lab1Courses_handlerMessage.HandlerMessage|Thread sleep milliseconds 9968, Guid = d43a6d14-f3b6-49a0-be62-7d8b8555c757|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:12.7110|INFO|Lab1Courses_handlerMessage.HandlerMessage|Type %2==0, RequestType = {0, Guid = {1}}|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
+2019-03-18 22:56:12.7443|INFO|Lab1Courses_handlerMessage.HandlerMessage|Data sended to DB, Guid = |Lab1Courses_handlerMessage.HandlerMessage.SendToDB|
+ 
+2019-03-18 22:56:12.7443|INFO|Lab1Courses_handlerMessage.HandlerMessage|RequestType isn't at hashset, RequestType= 48, Guid = cbd60a9d-ab06-4be1-a76c-b895d4645aab|Lab1Courses_handlerMessage.HandlerMessage.MessageWork|
+ 
